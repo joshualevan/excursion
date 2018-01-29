@@ -5,7 +5,7 @@
   font-family: Verdana, sans-serif;
 }
 
-#header {
+#head {
   font-size: 50px;
 }
 
@@ -18,7 +18,7 @@ video {
   object-fit: contain;
 }
 
-#middle {
+.subhead {
   font-size: 42px;
   font-weight: 300;
 }
@@ -26,4 +26,17 @@ video {
 .type {
   color: gray;
   font-size: 21px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#icon {
+  margin-top: 20px;
+}
+
+#copyright {
+  text-align: right;
 }
