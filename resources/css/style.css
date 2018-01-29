@@ -14,10 +14,6 @@
   color: aquamarine;
 }
 
-video {
-  object-fit: contain;
-}
-
 .subhead {
   font-size: 42px;
   font-weight: 300;
@@ -28,12 +24,9 @@ video {
   font-size: 21px;
 }
 
-img {
+#icon {
   display: block;
   margin: 0 auto;
-}
-
-#icon {
   margin-top: 20px;
 }
 
