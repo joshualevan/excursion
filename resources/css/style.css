@@ -13,3 +13,17 @@
   font-size: 16px;
   color: aquamarine;
 }
+
+video {
+  object-fit: contain;
+}
+
+#middle {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.type {
+  color: gray;
+  font-size: 21px;
+}
